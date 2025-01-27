@@ -2,7 +2,7 @@ package beecrowd.iniciante;
 
 import java.util.Scanner;
 
-public class Bee1001 {
+public class Bee1011 {
 /**
  ## Enunciado
 
