@@ -28,7 +28,7 @@ public class Bee1018 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+        double[] notes = {100.00, 50.00, 20.00, 10.00, 5.00, 2.00};
         var a = scanner.nextInt();
 
         System.out.println(a);
